@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGameSounds.iOS", "MonoGameSounds.iOS\MonoGameSounds.iOS.csproj", "{2CA62338-58D3-41FA-9672-0ED8FC1AFF17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGame.Framework.iOS", "MonoGame\MonoGame.Framework\MonoGame.Framework.iOS.csproj", "{DB8508BB-9849-4CC2-BC0F-8EB5DACB3C47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CA62338-58D3-41FA-9672-0ED8FC1AFF17}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{2CA62338-58D3-41FA-9672-0ED8FC1AFF17}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{2CA62338-58D3-41FA-9672-0ED8FC1AFF17}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{2CA62338-58D3-41FA-9672-0ED8FC1AFF17}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{2CA62338-58D3-41FA-9672-0ED8FC1AFF17}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{2CA62338-58D3-41FA-9672-0ED8FC1AFF17}.Debug|iPhone.Build.0 = Debug|iPhone
+		{2CA62338-58D3-41FA-9672-0ED8FC1AFF17}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{2CA62338-58D3-41FA-9672-0ED8FC1AFF17}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{2CA62338-58D3-41FA-9672-0ED8FC1AFF17}.Release|iPhone.ActiveCfg = Release|iPhone
+		{2CA62338-58D3-41FA-9672-0ED8FC1AFF17}.Release|iPhone.Build.0 = Release|iPhone
+		{2CA62338-58D3-41FA-9672-0ED8FC1AFF17}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{2CA62338-58D3-41FA-9672-0ED8FC1AFF17}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{DB8508BB-9849-4CC2-BC0F-8EB5DACB3C47}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{DB8508BB-9849-4CC2-BC0F-8EB5DACB3C47}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{DB8508BB-9849-4CC2-BC0F-8EB5DACB3C47}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{DB8508BB-9849-4CC2-BC0F-8EB5DACB3C47}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{DB8508BB-9849-4CC2-BC0F-8EB5DACB3C47}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{DB8508BB-9849-4CC2-BC0F-8EB5DACB3C47}.Debug|iPhone.Build.0 = Debug|iPhone
+		{DB8508BB-9849-4CC2-BC0F-8EB5DACB3C47}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{DB8508BB-9849-4CC2-BC0F-8EB5DACB3C47}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{DB8508BB-9849-4CC2-BC0F-8EB5DACB3C47}.Release|iPhone.ActiveCfg = Release|iPhone
+		{DB8508BB-9849-4CC2-BC0F-8EB5DACB3C47}.Release|iPhone.Build.0 = Release|iPhone
+		{DB8508BB-9849-4CC2-BC0F-8EB5DACB3C47}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{DB8508BB-9849-4CC2-BC0F-8EB5DACB3C47}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = MonoGameSounds.iOS\MonoGameSounds.iOS.csproj
+	EndGlobalSection
+EndGlobal
